@@ -1,2 +1,2 @@
-# cardio_catch_diseases
+# Cardio Catch Diseases
 Predicting cardiovascular diseases.
