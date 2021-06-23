@@ -30,7 +30,13 @@ The assumptions about the business problem is as follows:
 - Most cardiovascular diseases can be **prevented by addressing behavioural risk factors** such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
 - People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) **need early detection and management** using counselling and medicines, as appropriate.
 
-# 3. Solution Strategy
+# 3. Data Collect
+
+- Collect data from <a href="https://www.kaggle.com/sulianova/cardiovascular-disease-dataset">Kaggle</a>, where is available dataset in csv format.
+
+
+
+# 4. Solution Strategy
 
 My strategy to solve this challenge was:
 
