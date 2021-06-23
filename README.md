@@ -56,7 +56,7 @@ My strategy to solve this challenge was:
 
 **Step 08. Convert Model Performance to Business Values:** Convert the performance of the Machine Learning model into a business result.
 
-# 4. Next Steps to Improve
+# 5. Next Steps to Improve
 
 **1.** Test other models
 
